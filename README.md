@@ -10,7 +10,7 @@
       <ul>
         <li><strong>Linguagens:</strong> Java, TypeScript, Angular</li>
         <li><strong>Frameworks:</strong> Spring Boot, Tailwind</li>
-        <li><strong>Ferramentas:</strong> </li>
+        <li><strong>Ferramentas: Git/GitHub, MySQL</strong> </li>
       </ul>
       <h3>💼 Projetos</h3>
       <ul>
