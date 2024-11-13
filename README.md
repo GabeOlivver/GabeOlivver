@@ -8,9 +8,9 @@
     <td style="padding-left: 20px; vertical-align: top;">
       <h3>🖥️ Tecnologias</h3>
       <ul>
-        <li><strong>Linguagens:</strong> Java, TypeScript, C#, MySQL, Angular</li>
-        <li><strong>Frameworks:</strong> Spring Boot, ASP.NET, Tailwind CSS</li>
-        <li><strong>Ferramentas:</strong> AWS, Git, Docker</li>
+        <li><strong>Linguagens:</strong> Java, TypeScript, Angular</li>
+        <li><strong>Frameworks:</strong> Spring Boot, Tailwind</li>
+        <li><strong>Ferramentas:</strong> </li>
       </ul>
       <h3>💼 Projetos</h3>
       <ul>
@@ -19,9 +19,8 @@
       </ul>
       <h3>🎯 Interesses</h3>
       <ul>
-        <li>Desenvolvimento full-stack com foco em sistemas ERP.</li>
+        <li>Desenvolvimento full-stack.</li>
         <li>Aplicações mobile e web.</li>
-        <li>Perfumes e revenda de produtos.</li>
       </ul>
       <h3>👨‍💻 Sobre Mim</h3>
       <ul>
